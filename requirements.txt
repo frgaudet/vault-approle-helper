@@ -1,0 +1,4 @@
+hvac
+pyaml
+pyOpenSSL
+cryptography
